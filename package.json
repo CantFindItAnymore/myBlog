@@ -1,0 +1,15 @@
+{
+  "name": "myBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CantFindItAnymore/myBlog.git",
+  "author": "Ran Jun <ranjunx@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
