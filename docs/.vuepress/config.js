@@ -3,7 +3,7 @@ module.exports = {
 	description: '小哥哥小姐姐进来玩啊~(✿◡‿◡)',
 	head: [['link', { rel: 'icon', href: '/icon.png' }]],
   port: 3000,
-  base: '/rjx/',
+  base: '/myBlog/',
 	// markdown: {
 	// 	lineNumbers: false,
   // },
