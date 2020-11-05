@@ -1,4 +1,4 @@
-### 冉俊的blog
+### blog
 
 ## 使用vuepress生成
 
