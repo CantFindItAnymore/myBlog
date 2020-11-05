@@ -20,7 +20,7 @@ git config user.name CantFindItAnymore
 git config user.email 1069811427@qq.com
 
 # 如果发布到 https://<USERNAME>.github.io
-# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
+# git push -f git@github.com:CantFindItAnymore/CantFindItAnymore.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:CantFindItAnymore/myBlog.git master:gh-pages

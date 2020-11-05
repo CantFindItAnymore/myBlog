@@ -2,7 +2,8 @@ module.exports = {
 	title: "can\'t find it anymore",
 	description: '小哥哥小姐姐进来玩啊~(✿◡‿◡)',
 	head: [['link', { rel: 'icon', href: '/icon.png' }]],
-	port: 3000,
+  port: 3000,
+  base: '/rjx/',
 	// markdown: {
 	// 	lineNumbers: false,
   // },
@@ -47,7 +48,7 @@ module.exports = {
     resolve: {
       alias: {
         '@images': '../images',
-        '@components': './components'
+        '@components': '.././components'
       }
     }
   }
